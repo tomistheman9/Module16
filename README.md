@@ -1,4 +1,4 @@
-ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
+#ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
 
 Module 16, Wix Website link: https://wix.to/cCFMwVu
 Elevator Pitch
