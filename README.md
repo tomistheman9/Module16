@@ -1,3 +1,11 @@
+PLEASE DOWNLOAD THIS EXTENSION IN VS CODE TO ACCESS THE PDF FILES USING VS CODE. I did not like the way the .txt files looked in my project so I decided to go with the pdf files instead. Asche helped me out with this process as well.
+Name: vscode-pdf
+Id: tomoki1207.pdf
+Description: Display pdf file in VSCode.
+Version: 1.2.2
+Publisher: tomoki1207
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
+
 #ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
 
 Module 16, Wix Website link: https://wix.to/cCFMwVu
