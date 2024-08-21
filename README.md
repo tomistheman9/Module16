@@ -1,4 +1,5 @@
 ***PLEASE DOWNLOAD THIS EXTENSION IN VS CODE TO ACCESS THE PDF FILES USING VS CODE. I did not like the way the .txt files looked in my project so I decided to go with the pdf files instead. Asche helped me out with this process as well.
+
 Name: vscode-pdf
 Id: tomoki1207.pdf
 Description: Display pdf file in VSCode.
