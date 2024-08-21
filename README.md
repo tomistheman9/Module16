@@ -3,9 +3,9 @@
 Name: vscode-pdf
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf
 
-#ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
+MY PRESENTATION VIDEO: https://vimeo.com/1001315125/6d10f97d4a?share=copy
 
-My Presentation Video: https://vimeo.com/1001315125/6d10f97d4a?share=copy
+#ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
 
 Module 16, Wix Website link: https://wix.to/cCFMwVu
 Elevator Pitch
