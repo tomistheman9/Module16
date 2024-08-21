@@ -5,6 +5,8 @@ VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=tomoki1
 
 #ALL OF THE BELOW INFORMATION SHOULD BE IN THE NICELY ORDERED FILES ABOVE, I put the info here as well just in case.
 
+My Presentation Video: https://vimeo.com/1001315125/6d10f97d4a?share=copy
+
 Module 16, Wix Website link: https://wix.to/cCFMwVu
 Elevator Pitch
 
